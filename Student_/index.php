@@ -42,7 +42,7 @@
 				<nav>
 					<ul>
 						<li><a href="index.php">HOME</a></li>
-						<li><a href="books.php">BOOOOKS</a></li>
+						<li><a href="books.php">BOOKS</a></li>
 						<li><a href="logout.php">LOGOUT</a></li>
 						<li><a href="feedback.php">FEEDBACK</a></li>
 					</ul>
